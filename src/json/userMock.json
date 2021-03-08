@@ -1,0 +1,8 @@
+[
+    {
+        "email" : "teste@projeto22.com",
+        "name" : "Teste",
+        "password" : "1234",
+        "listProducts": []
+    }
+]
